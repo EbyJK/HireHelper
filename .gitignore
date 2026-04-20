@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+Frontend/node_modules/
+Backend/node_modules/
+
+# build files
+Frontend/dist/
+
+# uploads
+Backend/uploads/
+
+# env files (VERY IMPORTANT 🔥)
+.env
+Frontend/.env
+Backend/.env
